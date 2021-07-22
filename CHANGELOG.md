@@ -1,3 +1,4 @@
+a
 ## <small>9.0.9 (2021-05-30)</small>
 
 * fix/ issue #610 - upgrade typescript to 4.1.5 ([11fdf22](https://github.com/maximegris/angular-electron/commit/11fdf22)), closes [#610](https://github.com/maximegris/angular-electron/issues/610)
